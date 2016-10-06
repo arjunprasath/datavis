@@ -1,0 +1,32 @@
+[{
+    "id": "manhattan_watercomplaints",
+    "shortId": "Manhattan Water Complaints",
+    "day": 25,
+    "talk": 1,
+    "keynote": true,
+    "time": "9:15 - 10:00",
+    "speakers": "",
+    "title": "Manhattan Water Complaints",
+    "youtubeId": "pxkdOUyDrVY",
+    "slidesUrl": "",
+    "maxTime": 2402,
+    "transcriptDelay": -3,
+    "thumbnailRatio": 1.843
+  },  
+
+  {
+    "id": "apple_conf",
+    "shortId": "apple conf",
+    "day": 25,
+    "talk": 2,
+    "keynote": true,
+    "time": "9:15 - 11:15",
+    "speakers": "",
+    "title": "Apple WWDC",
+    "youtubeId": "n5jXg_NNiCA",
+    "slidesUrl": "",
+    "maxTime": 2402,
+    "transcriptDelay": -3,
+    "thumbnailRatio": 1.843
+  }  
+]
