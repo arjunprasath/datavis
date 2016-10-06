@@ -98,6 +98,7 @@ const TalkGridCell = React.createClass({
       <div className={`talk-grid-cell day-${data.day}`} onClick={this._handleSelectTalk}>
         <div className='talk-grid-cell-main'>
           <h1 className='talk-title'>{data.title}</h1>
+  	
           <h2 className='talk-speakers'>{data.speakers}</h2>
           <div className='talk-terms'>
             <TimeoutTransitionGroup component='div' transitionName='talk-term' enterTimeout={transitionTime} leaveTimeout={transitionTime}>
