@@ -4,7 +4,7 @@
     "day": 25,
     "talk": 1,
     "keynote": true,
-    "time": "9:15 - 10:00",
+    "time": "",
     "speakers": "",
     "title": "Manhattan Water Complaints",
     "youtubeId": "pxkdOUyDrVY",
@@ -20,7 +20,7 @@
     "day": 25,
     "talk": 2,
     "keynote": true,
-    "time": "9:15 - 11:15",
+    "time": "",
     "speakers": "",
     "title": "Apple WWDC",
     "youtubeId": "n5jXg_NNiCA",
@@ -28,5 +28,22 @@
     "maxTime": 2402,
     "transcriptDelay": -3,
     "thumbnailRatio": 1.843
+  },  
+
+{
+    "id": "pdebate",
+    "shortId": "pdebate",
+    "day": 25,
+    "talk": 2,
+    "keynote": true,
+    "time": "",
+    "speakers": "",
+    "title": "Presidential Debate",
+    "youtubeId": "7BGYYaaLrTc",
+    "slidesUrl": "",
+    "maxTime": 2402,
+    "transcriptDelay": -3,
+    "thumbnailRatio": 1.843
   }  
+
 ]

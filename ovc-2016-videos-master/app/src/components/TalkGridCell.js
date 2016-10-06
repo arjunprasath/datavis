@@ -110,7 +110,7 @@ const TalkGridCell = React.createClass({
         </div>
         <div className='talk-grid-cell-bottom'>
           <div className='talk-time'>
-            {`April ${data.day}, ${data.time}`}
+            {``}
           </div>
           <a onClick={this._handleClickPlayVideo} dhref={`https://www.youtube.com/watch?v=${data.youtubeId}`}><i className='fa fa-lg fa-youtube-play' title='Play Video' /></a>
           {hasSlides ? <a onClick={this._handleClickSlides} href={`${data.slidesUrl}`}><i className='fa fa-lg fa-desktop' title='View Slides' /></a> : null}

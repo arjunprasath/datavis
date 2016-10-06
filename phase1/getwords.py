@@ -1,6 +1,6 @@
 import nltk
 import math
-subs  = open('./Transcripts/apple.vtt',"r");
+subs  = open('./Transcripts/subzz.vtt',"r");
 transcript  = "start##";
 
 def getOccurences(nouns, word):
@@ -56,7 +56,7 @@ into_string = str(nouns)
 
 
 print terms[1][0]
-output  = open('./Transcripts/output.txt',"rw+");
+output  = open('./Transcripts/pdoutput.txt',"rw+");
 for word,time in terms:
 	output.write(' { "term": "' + word + '", "score": 0.005' +', "timestamps": [')
 	for t in time:
