@@ -1,0 +1,81 @@
+.talk-pane {
+  padding: 10px 10px 6px;
+  border: 1px solid #eee;
+  background-color: rgba(255, 255, 255,0.8);
+  margin: 0 0 10px;
+
+  header {
+    font-size: 0.4em;
+    margin-bottom: 15px;
+    margin-top: 5px;
+  }
+
+  .talk-title {
+    font-size: 4.5em;
+    line-height: 1.35em;
+    margin-top: 10px;
+    a {
+      color: #464646;
+    }
+  }
+
+  .talk-speakers {
+    margin: 0;
+    line-height: 2em;
+    float: right;
+  }
+
+  .talk-title {
+    text-transform: none;
+    font-style: normal;
+  }
+
+  .talk-quick-select{
+    font-size: 0.7em;
+
+    .help-text {
+      display: inline-block;
+      vertical-align: top;
+      padding: 4px;
+      color: #666;
+    }
+  }
+
+  &.has-talk {
+    .talk-quick-select {
+      border-bottom: 1px solid #eee;
+      padding-bottom: 6px;
+      margin-bottom: 20px;
+    }
+  }
+
+  .talk-quick-select-items {
+    display: inline-block;
+  }
+
+  .talk-quick-select-item {
+    display: inline-block;
+    margin: 0 4px 4px;
+    padding: 4px;
+    background: #eee;
+    cursor: pointer;
+
+    &.day-25 {
+      background: #E8E5F7;
+    }
+
+    &.day-26 {
+      background: #ECF1FB;
+    }
+
+    &:hover {
+      background: rgb(254, 43, 117);
+      color: #fff;
+    }
+  }
+
+  .touched .talk-quick-select-item {
+    padding: 8px;
+    margin: 0 8px 8px;
+  }
+}

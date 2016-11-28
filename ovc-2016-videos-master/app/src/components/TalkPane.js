@@ -68,7 +68,7 @@ const TalkPane = React.createClass({
 
     return (
       <div className={cx('talk-quick-select', { touched })}>
-        <span className='help-text'>Select a Talk:</span>
+        <span className='help-text'></span>
         <div className='talk-quick-select-items'>
           <div className='talks-day-group'>{allTalks.filter(talk => talk.day === 25).map(renderTalk.bind(this))}</div>
           <div className='talk-day-group'>{allTalks.filter(talk => talk.day === 26).map(renderTalk.bind(this))}</div>
@@ -88,12 +88,12 @@ const TalkPane = React.createClass({
       <div>
         <header>
           <h2 className='talk-speakers'>{selectedTalk.speakers}</h2>
-          <h1 className='talk-title'>
+          <h3 className='talk-title'>
             <a onClick={this._handleTitleClick}
-              href={`https://www.youtube.com/watch?v=${selectedTalk.youtubeId}`}>
-              {selectedTalk.title}
-            </a>
-          </h1>
+              href={``}>
+              Click on the keywords below to watch videos on different topics! 
+            </a>			
+          </h3>
         </header>
         <AutoWidth><TermVis data={selectedTalk} touched={touched} /></AutoWidth>
       </div>

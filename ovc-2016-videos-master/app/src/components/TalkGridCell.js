@@ -95,27 +95,9 @@ const TalkGridCell = React.createClass({
     const scoreScale = d3.scale.linear().domain([scoreExtent[0], scoreExtent[1] * 0.9]).range([0.5, 1]);
 
     return (
-      <div className={`talk-grid-cell day-${data.day}`} onClick={this._handleSelectTalk}>
-        <div className='talk-grid-cell-main'>
-          <h1 className='talk-title'>{data.title}</h1>
-  	
-          <h2 className='talk-speakers'>{data.speakers}</h2>
-          <div className='talk-terms'>
-            <TimeoutTransitionGroup component='div' transitionName='talk-term' enterTimeout={transitionTime} leaveTimeout={transitionTime}>
-              {terms.map((term) => {
-                // wrap it in a div to get the transition opacity
-                return <div className='talk-term-container' key={term.term}><div className='talk-term' style={{ opacity: scoreScale(term.score) }}>{term.term}</div></div>;
-              })}
-            </TimeoutTransitionGroup>
-          </div>
-        </div>
-        <div className='talk-grid-cell-bottom'>
-          <div className='talk-time'>
-            {``}
-          </div>
-          <a onClick={this._handleClickPlayVideo} dhref={`https://www.youtube.com/watch?v=${data.youtubeId}`}><i className='fa fa-lg fa-youtube-play' title='Play Video' /></a>
-          {hasSlides ? <a onClick={this._handleClickSlides} href={`${data.slidesUrl}`}><i className='fa fa-lg fa-desktop' title='View Slides' /></a> : null}
-        </div>
+      <div className={``} onClick={this._handleSelectTalk}>
+       
+      
       </div>
     );
   }

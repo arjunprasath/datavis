@@ -9,7 +9,7 @@ import * as Util from '../util/Util';
 import Analytics from '../analytics/GoogleAnalytics';
 
 import './TermVis.scss';
-
+var iter2 = 0;
 /**
  * takes an array of timestamps and an array of frames and
  * maps the timestamps to the frame that represents that time
@@ -19,7 +19,7 @@ function timestampsToFrames(timestamps, frames) {
 
   const timestampFrames = timestamps.map(time => {
     while (frames[frameIndex]) {
-      const frameStart = frames[frameIndex];
+     /* const frameStart = frames[frameIndex];
       const frameEnd = frames[frameIndex + 1];
 
       // at the end of the frames
@@ -31,7 +31,11 @@ function timestampsToFrames(timestamps, frames) {
         return frameStart;
 
       // time is > frameEnd, so increment frames
-      } else {
+      }*/
+
+	if (time == frame)
+	  return frame
+	 else {
         frameIndex += 1;
       }
     }
@@ -45,7 +49,7 @@ function timestampsToFrames(timestamps, frames) {
 const transitionUpdateTime = 300;
 const transitionLeaveTime = 300;
 const transitionEnterTime = transitionLeaveTime + 200 + 300; // delay until after all have left then a bit
-const videoDelay = 3; // number of seconds to navigate the video back from the set timestamp/frame
+const videoDelay = 0; // number of seconds to navigate the video back from the set timestamp/frame
 /**
  * Renders the visualization of top terms/bigrams in the talk
  */
@@ -119,8 +123,9 @@ const TermVis = React.createClass({
     // (i.e., it ends at the beginning of the last thumbnail). Since the scale
     // is not clamped, it works for the timestamps that follow after it as well.
     const maxFrame = d3.max(data.frames);
-    const thumbnailCompressedWidth = innerWidth / data.frames.length;
-    const xScale = d3.scale.linear().domain([0, maxFrame]).range([0, innerWidth - thumbnailCompressedWidth]);
+    //const thumbnailCompressedWidth = innerWidth / data.frames.length;
+    const thumbnailCompressedWidth =0;
+	const xScale = d3.scale.linear().domain([0, maxFrame]).range([0, innerWidth - thumbnailCompressedWidth]);
     const xTimelineScale = d3.scale.linear().domain([0, maxFrame]).range([-innerMargin.left, width - thumbnailCompressedWidth - innerMargin.left]);
 
     const termTextSize = touched ? 20 : 14; // matches css-- needed since we can't use dominant-baseline: hanging for IE
@@ -262,7 +267,8 @@ const TermVis = React.createClass({
 
     // if we have a toggled term, check if we are clicking a thumbnail that is highlighted or not
     if (toggledTerm) {
-      const highlightFrames = timestampsToFrames(toggledTerm.timestamps, talk.frames);
+      //const highlightFrames = timestampsToFrames(toggledTerm.timestamps, talk.frames);
+	const highlightFrames = toggledTerm.timestamps;
       if (highlightFrames.indexOf(frame) === -1) {
         toggledTerm = null;
         focusedTerm = null;
@@ -274,7 +280,8 @@ const TermVis = React.createClass({
     Analytics.trackEvent('click-thumbnail', talk.id, frame);
 
     this.setState({ focusedTerm, toggledTerm });
-    Dispatcher.trigger(Dispatcher.events.navigateVideo, talk, Math.max(frame - videoDelay, 0));
+    //Dispatcher.trigger(Dispatcher.events.navigateVideo, talk, Math.max(frame - videoDelay, 0));
+    Dispatcher.trigger(Dispatcher.events.navigateVideo, talk.subtalks[frame], 0);
   },
 
   _handleClickTimestamp(timestamp) {
@@ -282,7 +289,8 @@ const TermVis = React.createClass({
 
     Analytics.trackEvent('click-timestamp', data.id, timestamp);
 
-    Dispatcher.trigger(Dispatcher.events.navigateVideo, data, Math.max(timestamp - videoDelay, 0));
+    //Dispatcher.trigger(Dispatcher.events.navigateVideo, data, Math.max(timestamp - videoDelay, 0));
+	Dispatcher.trigger(Dispatcher.events.navigateVideo, data.subtalks[frame],0);
   },
 
   _handleHoverTimestamp(timestamp) {
@@ -333,10 +341,11 @@ const TermVis = React.createClass({
 
     const { x: termX, y: termY, width: termWidth } = termLayout;
     const timelineY = -timelineHeight / 2; // counter-act the transform placed on terms and get to middle of timeline
-
+	console.log(this.state);
     return (
       <g className='focused-group'>
         {focusedTerm.timestamps.map((time, i) => {
+	  
           const timelineX = xTimelineScale(time);
           return (
             <line key={i} x1={termX + termWidth / 2} y1={termY} x2={timelineX} y2={timelineY} className='timestamp-term-line' />
@@ -369,7 +378,9 @@ const TermVis = React.createClass({
     // check if a thumbnail is focused and if we should highlight this term
     let isInFocusedFrame = false;
     if (focusedFrame != null) {
-      const termFrames = timestampsToFrames(term.timestamps, data.frames);
+      //const termFrames = timestampsToFrames(term.timestamps, data.frames);
+	const termFrames = term.timestamps;
+	
       isInFocusedFrame = termFrames.indexOf(focusedFrame) !== -1;
     }
 
@@ -443,7 +454,10 @@ const TermVis = React.createClass({
 
     // add timestamps from focused term without overlap
     const timesToShow = [0, data.maxTime];
-    if (focusedTerm) {
+ 	var timesToShow1 = []
+	
+    var iter = 0
+    if (focusedTerm) { iter = 0
       focusedTerm.timestamps.forEach(time => {
         // if it doesn't overlap, add it in
         let overlap = false;
@@ -457,26 +471,42 @@ const TermVis = React.createClass({
             overlap = true;
           }
         });
+	 
+	console.log("iter==" + iter);
+	    timesToShow1[iter] = focusedTerm.dates[iter]; 
+	    iter = iter + 1;
 
         if (!overlap) {
           timesToShow.push(time);
+		
+		
         }
       });
     }
-
+	console.log(timesToShow1 + "#####ssssssssssssssss")
+	 iter2 = 0;
+	var fterm;
     return (
+	
       <g className='timeline'>
         <rect x={-innerMargin.left} y={0} width={width} height={timelineHeight} className='timeline-bg' />
-        {timesToShow.map((time, i) => {
+        {
+	timesToShow.map((time, i) => {
+	  //var {fterm} = this.state;	
           const x = xTimelineScale(time);
           const y = timelineHeight;
           const { textAnchor } = getStartEndAnchor(time);
-
+	  console.log(timesToShow1[i] + "@@@@@@@@"+i);
+	   fterm = (String(timesToShow1[i]));
+	  iter2 = iter2 + 1;
           return (
             <g className='time-group' key={i} transform={`translate(${x} ${y})`}>
-              <text x={0} y={0} textAnchor={textAnchor} dy={10}>{Util.timeFormat(time)}</text>
+                <text x={0} y={0} textAnchor={textAnchor} dy={10}>{fterm.slice(0,7)}</text>
+	    
             </g>
-          );
+         
+	 );
+	 
         })}
       </g>
     );
@@ -510,6 +540,7 @@ const TermVis = React.createClass({
               <g className='time-group focused' transform={`translate(0 ${timelineHeight + 15})`}>
                 <rect x={-timeWidth / 2} y={0} width={timeWidth} height={timeHeight} />
                 <text x={0} y={0} textAnchor={'middle'} dy={10}>{Util.timeFormat(time)}</text>
+		//<text x={0} y={0} textAnchor={'middle'} dy={10}>{0.00}</text>
               </g>
             );
           }
@@ -519,6 +550,7 @@ const TermVis = React.createClass({
               <circle key={i} cx={0} cy={cy} r={timestampMarkerRadius}
                 className='timestamp-marker'
                 onMouseEnter={this._handleHoverTimestamp.bind(this, time)}
+		onMouseEnter={this._handleHoverTimestamp.bind(this, null)}
                 onMouseLeave={this._handleHoverTimestamp.bind(this, null)}
                 onClick={this._handleClickTimestamp.bind(this, time)}
                 onTouchEnd={this._handleClickTimestamp.bind(this, time)} />
@@ -538,7 +570,8 @@ const TermVis = React.createClass({
 
     let highlightFrames;
     if (focusedTerm) {
-      highlightFrames = timestampsToFrames(focusedTerm.timestamps, data.frames);
+      //highlightFrames = timestampsToFrames(focusedTerm.timestamps, data.frames);
+	highlightFrames = focusedTerm.timestamps;
     }
 
     // switching from rect/text to div has made it so we need multiple SVG layers

@@ -1,0 +1,49 @@
+[{
+    "id": "manhattan_watercomplaints",
+    "shortId": "Manhattan Water Complaints",
+    "day": 25,
+    "talk": 1,
+    "keynote": true,
+    "time": "",
+    "speakers": "Time lapse of Water quality complaints raised from different parts of south Manhattan. Use the buttons labelled as years to jump to different time periods  ",
+    "title": "Manhattan Water Complaints",
+    "youtubeId": "pxkdOUyDrVY",
+    "slidesUrl": "",
+    "maxTime": 2402,
+    "transcriptDelay": -3,
+    "thumbnailRatio": 1.843
+  },  
+
+  {
+    "id": "apple_conf",
+    "shortId": "apple conf",
+    "day": 25,
+    "talk": 2,
+    "keynote": true,
+    "time": "",
+    "speakers": "",
+    "title": "Apple WWDC",
+    "youtubeId": "n5jXg_NNiCA",
+    "slidesUrl": "",
+    "maxTime": 2402,
+    "transcriptDelay": -3,
+    "thumbnailRatio": 1.843
+  },  
+
+{
+    "id": "pdebate",
+    "shortId": "pdebate",
+    "day": 25,
+    "talk": 2,
+    "keynote": true,
+    "time": "",
+    "speakers": "Want to know the presidential candidates' opinions on a specific issue? Find your issue among the labelled boxes and click on the Thumbnails mapped to them!",
+    "title": "Presidential Debate",
+    "youtubeId": "7BGYYaaLrTc",
+    "slidesUrl": "",
+    "maxTime": 2402,
+    "transcriptDelay": -3,
+    "thumbnailRatio": 1.843
+  }  
+
+]

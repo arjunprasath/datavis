@@ -1,49 +1,17 @@
 [{
-    "id": "manhattan_watercomplaints",
-    "shortId": "Manhattan Water Complaints",
+    "id": "Global Action Project",
+    "shortId": "Global Action Project",
     "day": 25,
     "talk": 1,
     "keynote": true,
     "time": "",
-    "speakers": "Time lapse of Water quality complaints raised from different parts of south Manhattan. Use the buttons labelled as years to jump to different time periods  ",
-    "title": "Manhattan Water Complaints",
+    "speakers": "",
+    "title": "Global Action Project",
     "youtubeId": "pxkdOUyDrVY",
     "slidesUrl": "",
     "maxTime": 2402,
     "transcriptDelay": -3,
-    "thumbnailRatio": 1.843
-  },  
-
-  {
-    "id": "apple_conf",
-    "shortId": "apple conf",
-    "day": 25,
-    "talk": 2,
-    "keynote": true,
-    "time": "",
-    "speakers": "",
-    "title": "Apple WWDC",
-    "youtubeId": "n5jXg_NNiCA",
-    "slidesUrl": "",
-    "maxTime": 2402,
-    "transcriptDelay": -3,
-    "thumbnailRatio": 1.843
-  },  
-
-{
-    "id": "pdebate",
-    "shortId": "pdebate",
-    "day": 25,
-    "talk": 2,
-    "keynote": true,
-    "time": "",
-    "speakers": "Want to know the presidential candidates' opinions on a specific issue? Find your issue among the labelled boxes and click on the Thumbnails mapped to them!",
-    "title": "Presidential Debate",
-    "youtubeId": "7BGYYaaLrTc",
-    "slidesUrl": "",
-    "maxTime": 2402,
-    "transcriptDelay": -3,
-    "thumbnailRatio": 1.843
-  }  
-
+    "thumbnailRatio": 1.843,
+    "subtalks" : [{"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "f3vkVMd78YI"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "LAjtp019hBQ"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "ONd1Us9rG0U"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "vmKxmZrdujc"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "LAjtp019hBQ"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "ckD4sTlSONY"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "K6vkNJreRVs"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "urj10uWHpXM"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "pneFEst4Z3Y"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "6r_Y-IiVu3Q"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "2pLzf3egWnU"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "uk9awjmYa7s"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "f3vkVMd78YI"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "oWr43SqMYR0"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "rKW1O4TSrgE"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "W8meG60pqis"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "S6p9g1069B4"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "Pc0bX_xSIvo"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "5doVROseluw"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "UoeIS1ELQYw"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "JzEo8CTAg1Q"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "vmKxmZrdujc"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "ONd1Us9rG0U"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "rQEgCc1hdbY"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "pzFSZLv32q0"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "H0KbJnVQ2bo"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "gxmLwEUTgzo"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "KjzwusYpvk8"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "rCPM7Ui1x_E"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "yd0HTMUfnHE"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "F7Ws4lheKsM"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "yKiv2g6dsoY"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "yKiv2g6dsoY"}, {"transcriptDelay": 0, "maxTime": 2402, "thumbnailRatio": 1.843, "youtubeId": "F7Ws4lheKsM"}]
+  }
 ]

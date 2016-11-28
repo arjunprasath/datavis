@@ -62,6 +62,7 @@ const TalkPlayer = React.createClass({
     return (
       <div className='talk-player'>
         <div id='youtube-video' ref='youtube-video'/>
+	<h1> Video1 </h1>
       </div>
     );
   }

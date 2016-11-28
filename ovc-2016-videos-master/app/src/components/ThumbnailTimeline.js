@@ -9,7 +9,7 @@ const thumbnailContext = require.context('../img/talks');
 
 function thumbnailUrl(talk, frame) {
   const fileId = `${talk.id}`;
-  return thumbnailContext(`./${fileId}/frame.png`);
+  return thumbnailContext(`./${fileId}/frame${frame}.png`);
  // return thumbnailContext(`./water2/frame0000.png`);
 	
 }
