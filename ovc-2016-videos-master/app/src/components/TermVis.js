@@ -210,7 +210,8 @@ const TermVis = React.createClass({
       return {
         term: term.term,
         x: xScale(d3.mean(term.timestamps)) - (width / 2),
-        y: topMargin,
+        //y: topMargin,
+	y: term.totalviews*10+200,
         width,
         height: termHeight
       };
@@ -473,7 +474,7 @@ const TermVis = React.createClass({
         });
 	 
 	console.log("iter==" + iter);
-	    timesToShow1[iter] = focusedTerm.dates[iter]; 
+	    timesToShow1[iter+2] = focusedTerm.dates[iter][1]; 
 	    iter = iter + 1;
 
         if (!overlap) {
@@ -486,6 +487,8 @@ const TermVis = React.createClass({
 	console.log(timesToShow1 + "#####ssssssssssssssss")
 	 iter2 = 0;
 	var fterm;
+		timesToShow1[0] = ""
+		timesToShow1[1] = "2016-08"
     return (
 	
       <g className='timeline'>
@@ -496,12 +499,12 @@ const TermVis = React.createClass({
           const x = xTimelineScale(time);
           const y = timelineHeight;
           const { textAnchor } = getStartEndAnchor(time);
-	  console.log(timesToShow1[i] + "@@@@@@@@"+i);
+	  console.log(timesToShow1[i+2] + "@@@@@@@@"+i);
 	   fterm = (String(timesToShow1[i]));
 	  iter2 = iter2 + 1;
           return (
             <g className='time-group' key={i} transform={`translate(${x} ${y})`}>
-                <text x={0} y={0} textAnchor={textAnchor} dy={10}>{fterm.slice(0,7)}</text>
+                <text x={0} y={0}  dy={10}>{fterm.slice(0,7)}</text>
 	    
             </g>
          
@@ -541,6 +544,7 @@ const TermVis = React.createClass({
                 <rect x={-timeWidth / 2} y={0} width={timeWidth} height={timeHeight} />
                 <text x={0} y={0} textAnchor={'middle'} dy={10}>{Util.timeFormat(time)}</text>
 		//<text x={0} y={0} textAnchor={'middle'} dy={10}>{0.00}</text>
+		
               </g>
             );
           }
@@ -580,6 +584,7 @@ const TermVis = React.createClass({
     // hover over the div boxes. Yet the line layer needs to be above the boxes.
     return (
       <div className='term-vis-container' style={{ width, height }}>
+	
         <div ref='termsDiv' className={cx('terms-container', { touched })}
             style={{ marginTop: innerMargin.top + timelineHeight, marginLeft: innerMargin.left }}>
           {this._renderTermDivs(visComponents)}
@@ -589,7 +594,13 @@ const TermVis = React.createClass({
           <g className='vis-inner' transform={`translate(${innerMargin.left} ${innerMargin.top})`}>
             {this._renderTimeline(visComponents)}
             {this._renderTermLines(visComponents)}
+            
           </g>
+<line key={1} x1 ={1050.0} y1={509} x2={1050.0} y2={260}  className='timestamp-term-line'/>
+<line key={2} x1 ={1050.0} y1={509} x2={1046.0} y2={499}  className='timestamp-term-line'/>
+<line key={3} x1 ={1050.0} y1={509} x2={1054.0} y2={499}  className='timestamp-term-line'/>
+<text x={1020} y={350} textAnchor={'middle'} dy={10}>{'Views'}</text>
+<text x={1005} y={335} textAnchor={'middle'} dy={10}>{'Number of'}</text>
         </svg>
         <svg width={width} height={innerMargin.top + timelineHeight + termsTopMargin}
             className={cx('term-vis', 'term-vis-marker-layer', { touched })}>
@@ -597,12 +608,15 @@ const TermVis = React.createClass({
             {this._renderTimelineMarkers(visComponents)}
           </g>
         </svg>
+	<img src='https://raw.githubusercontent.com/arjunprasath/datavis/master/guide.jpg' height='120' width='800' align='middle'/> 
         <div className='timeline-container'>
           <ThumbnailTimeline data={this.props.data} width={width} highlightFrames={highlightFrames}
               focusedFrame={focusedFrame}
               onChangeFocusedFrame={this._handleChangeFocusedFrame}
               onClickThumbnail={this._handleClickThumbnail} />
+	    
         </div>
+       
       </div>
     );
   }

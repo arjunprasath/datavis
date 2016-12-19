@@ -423,7 +423,7 @@ fieldset {
     #schedule .schedule-item .content h2.event, #schedule .schedule-item .content h2.talk-title {
       font-size: 1.7em;
       display: inline;
-      font-weight: 600; }
+      font-weight: 1500; }
   #schedule .schedule-item.break {
     background: rgba(254, 43, 117, 0.19); }
   #schedule .close {

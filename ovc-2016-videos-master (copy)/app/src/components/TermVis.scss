@@ -10,6 +10,7 @@ $in-frame-term-text-color: #fff;
 $timestamp-marker-fill: lighten($focused-term-rect-color, 15%);
 
 
+
 .term-vis-container {
   position: relative;
 
@@ -109,7 +110,7 @@ $timestamp-marker-fill: lighten($focused-term-rect-color, 15%);
 
   .timestamp-marker {
     fill: $timestamp-marker-fill;
-    stroke: darken($timestamp-marker-fill, 10%);
+    stroke: darken($timestamp-marker-fill, 90%);
     cursor: pointer;
 
     &:hover {

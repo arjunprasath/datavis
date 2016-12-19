@@ -104,6 +104,13 @@ fieldset {
   position: absolute;
   z-index: 1; }
 
+.line{
+width: 112px;
+height: 47px;
+border-bottom: 1px solid black;
+position: absolute;
+}
+
 /* ========================
         Navigation
 ======================== */
