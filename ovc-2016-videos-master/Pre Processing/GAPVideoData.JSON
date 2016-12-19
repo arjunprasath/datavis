@@ -1,0 +1,1318 @@
+{"mylists": [{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/LMzZYBsSYL7Mu7b-Hr0Re0rZBeI\"",
+ "pageInfo": {
+  "totalResults": 4,
+  "resultsPerPage": 5
+ },
+ "items": [
+  
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/4hqoSdwoSIvazkXVU7M_k5qaJgI\"",
+   "id": "UExGWE91d3pZYjlRcS1XRDVzcjloNUpyclluLUsyanoyMi41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2016-08-05T23:32:58.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "To Blend Or To Dream",
+    "description": "A group of immigrant youth decide how to respond when politician \"Donald Cruz\" comes to speak at their high school. Created by G.A.P.'s Youth Breaking Borders media program for immigrant youth, this film addresses the current anti-immigrant political climate and the personal impact that this fever pitch xenophobia is having on immigrant youth.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qq-WD5sr9h5JrrYn-K2jz22",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LAjtp019hBQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/gSsvH3xVQP0SIu89GnS4KKM3qV4\"",
+   "id": "UExGWE91d3pZYjlRcS1XRDVzcjloNUpyclluLUsyanoyMi4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2016-08-05T23:32:58.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Missing Pieces",
+    "description": "Made in collaboration with youth leaders from Community Voices Heard, DRUM, FUREE, GOLES, RAISE and Ugnayan, this short film explores the perspectives of four young women around the intersections of Islamophobia, anti- Black and anti- Asian racism, policing, and immigrant detention.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qq-WD5sr9h5JrrYn-K2jz22",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ONd1Us9rG0U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/zcmyhTGi27Q3WNZae0SdEaeRyWI\"",
+   "id": "UExGWE91d3pZYjlRcS1XRDVzcjloNUpyclluLUsyanoyMi41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2016-08-05T23:32:58.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Right To Act",
+    "description": "Made in collaboration with DRUM and Ugnayan, this short film takes on the NYPD's systematic unlawful and deceptive searches of young people of color. The filmmakers produced this film to create awareness of and support for the Right to Know Act, which aims to create transparency and accountability in everyday interactions between the NYPD and the public.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qq-WD5sr9h5JrrYn-K2jz22",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vmKxmZrdujc"
+    }
+   }
+  }
+ ]
+},
+
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/wJq5q_mdNc96kPrKjKLFQ1kfk4c\"",
+ "pageInfo": {
+  "totalResults": 8,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/KTN5Crj09k75jV5sff4DjP5ua7c\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2016-08-10T17:45:12.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "To Blend Or To Dream",
+    "description": "A group of immigrant youth decide how to respond when politician \"Donald Cruz\" comes to speak at their high school. Created by G.A.P.'s Youth Breaking Borders media program for immigrant youth, this film addresses the current anti-immigrant political climate and the personal impact that this fever pitch xenophobia is having on immigrant youth.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LAjtp019hBQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LAjtp019hBQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/uH5Zx6X4VRtjBMarAtO86PQxswY\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:11:06.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Keep Ya Head Up",
+    "description": "Following the stories of two youth, this film addresses the impact of policing and surveillance, specifically on young immigrant and black communities in New York City. Youth producers are hoping to use the film to raise awareness among high school students about how they can fight back against Islamophobia and racism in their schools, on the streets and in NYC policy.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ckD4sTlSONY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ckD4sTlSONY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ckD4sTlSONY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ckD4sTlSONY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ckD4sTlSONY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ckD4sTlSONY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/8rNxXR2AcfXMBUylddcaGO4SDtA\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:11:06.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "V. The Great Performer",
+    "description": "Videl, an undocumented street performer, struggles with police harassment in New York City. He decides to take action by joining his friend and other youth organizers in a Know Your Rights program. Will his struggle with police continue? Through this video, the producers of Youth Breaking Borders hope to empower viewers to change their situation by accessing resources and building community.\n\nLearn Your Rights and Protect our Communities:\n- changethenypd.org\n- familiesforfreedom.org\n- justicecommittee.org\n- thenyic.org\n- citylore.org\n\nYouth Producers: Abdoul Akanji, Charles Canario, Danissa Santos, Eduardo Enciso, Hatim Mohamed, Ivanna Vatamanyuk, Jeremy Franklin, Pierre Louis Junior, Marvin Brunache, Maxner (MB) Brisson",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K6vkNJreRVs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K6vkNJreRVs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K6vkNJreRVs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/K6vkNJreRVs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/K6vkNJreRVs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "K6vkNJreRVs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/1ktOhIEGQp5pFu82THRA1ivSERM\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:08:39.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "The Quest For Us",
+    "description": "Zee's lost on the streets of Earth. Ashley is searching for home. In this immigration allegory, two Aliens embark on a journey to find a safe space where they can be themselves in a human world.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/urj10uWHpXM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/urj10uWHpXM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/urj10uWHpXM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/urj10uWHpXM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "urj10uWHpXM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/ulsfCo8uhk0Q4QJ7uGmlUhPZiiY\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:09:38.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "No Safe Place",
+    "description": "As ICE (Immigrant Customs Enforcement) has drastically increased their quotas for arresting undocumented immigrants, this video traces the lives of young people targeted by this system and asks us to consider the power of sharing our stories.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pneFEst4Z3Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pneFEst4Z3Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pneFEst4Z3Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pneFEst4Z3Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/6MkYQNLu-Pie8XOJOOh4rPEq4fc\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:10:29.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "America's Next Top Immigrant",
+    "description": "A.N.T.I. follows seven immigrants as they battle it out for the American Dream. A satire on reality TV, this piece brings to light what the Dream means to these young immigrants. Watch as the drama and excitement unfolds on America's Next Top Immigrant's season finale.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6r_Y-IiVu3Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6r_Y-IiVu3Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6r_Y-IiVu3Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6r_Y-IiVu3Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/qc2eBsuFJRdPehRUC9wdBq8TK0U\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:10:58.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Aliens vs. Predators",
+    "description": "Each year 60,000 undocumented immigrants graduate from high schools across the United States. With recruiters falling short of their targets and casualties mounting in Iraq and Afghanistan, these young people are increasingly being targeted by military recruiters. Aliens Vs Predators is an uncompromising call for justice from a diverse group of young immigrants in New York City.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2pLzf3egWnU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2pLzf3egWnU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2pLzf3egWnU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2pLzf3egWnU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/SSeUASn5tZFkBcInE8KpDLbswTg\"",
+   "id": "UExGWE91d3pZYjlRcGt5MzZOY3QxUDNjVlRuaVZLTzViTC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:11:22.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Unsockumented",
+    "description": "Leaving high school is a stressful time in any young person's life, even more so for those living in the United States without documentation. \"Unsockumented\" uses dark humor to explore some of the challenges that these youth face.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uk9awjmYa7s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uk9awjmYa7s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uk9awjmYa7s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qpky36Nct1P3cVTniVKO5bL",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uk9awjmYa7s"
+    }
+   }
+},
+
+
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/gdxKKtM5daqR8PgTraAyGGdCVsM\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:11:29.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "The Shade is Real: An Oversimplified Story",
+    "description": "Written, directed and produced by LGBTQ youth, this SupaFriends film tells their story of working to overcome internalized and interpersonal transphobia, homophobia and racism as they find ways to unite for social change through a remake of Mean Girls meets 8 Mile.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oWr43SqMYR0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oWr43SqMYR0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oWr43SqMYR0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oWr43SqMYR0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oWr43SqMYR0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/oD_5KWfz0Bv-jioP1abN98fnSq0\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:04:00.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "\"Oversimplified\" Episode 1: Origins",
+    "description": "Kelly, born and raised in New York City, met Caleb two years ago at a LGBTQ youth shelter.  At first rivals, now they are best of friends.   Ellen just arrived to the city eager to find community. Through encounters with getting \"grilled,\" generalizations made about the LGBTQ community, and connecting to their history, they explore origins and explain why they are through with being oversimplified into a few (lgbt) letters when the story's much more complex. \n\nFilm/media makers: \nGabby Valdez\nJames Evans\nRené Jaquéz\nVictoria Santiago\nAbena St. Claire\nGiselle Bleuz\nJoshua Rodriguez\nSylver Gold\nWith help from Naye Mccleland and Aliyah Akchtab \n\nSuggested pre-screening questions\n1) How has the finding support and community shifted over the years for LGBT communities? (i.e. services coming into play, stonewall, policing)  \n\n2) What kinds of issues do LGBT youth of color encounter in the city?\n\nSuggested post-screening questions\n\n• Often as people in the LGBTQ community we are oversimplified, which is where the name came from. How did the episode touch on this ways the lgbt community is oversimplified?   \n• Do you feel that services around the LGBTQ health and housing community meet your needs? Why or why not? \n• What are some parts of the LGBTQ history captured in the film? How?   \n• What do you think Caleb got a phone call about? Why do you think that? What assumptions or stereotype inform that conclusion? \n\n\nAdditional Resources:\n\nThe way the films ends, the content of Caleb's call is unclear.  We want to call attention that if the audience fears the worse and assumes that its about HIV or AIDS, then we urge people to find out more about post-exposure Prophylaxis, which gives you 72 hours from the time you think you may have been exposed to HIV to take it. It is a pill that directly treats folks. You can get it at any emergency room in NYC or to the HEAT program in Brooklyn.  Also encourage folks to do more research about this as SupaFriends just find out about this at the End of Year screening and would love more info and links!  Also for more info about youth organizing for LGBTQ against gentrification go to FIERCE's website at www.fiercenyc.org.  Also part of our process of education was watching an excerpt of Fenced Out found here: http://www.youtube.com/watch?v=BMrohHHdXd4\n\nFor more information about Sylvia Rivera, here is a link of her speaking her mind after some old-timey radical feminists and transphobes of the day attempted to block her right to speak at the 1973 Christopher Street Liberation Day rally. Please note that this is very educational but also very triggering especially for survivors of transphobic attacks or sexual abuse.  http://www.youtube.com/watch?v=0lD75vnGc-E",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rKW1O4TSrgE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rKW1O4TSrgE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rKW1O4TSrgE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rKW1O4TSrgE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rKW1O4TSrgE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rKW1O4TSrgE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/lIrZgrmRXcbRkc20r73_RSgjLyE\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:09:10.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "SupaFriends: The Fight for Acceptance",
+    "description": "When one member of the Superheros loses hope for justice on earth and decides to escape to the moon, other members of the team have their beliefs tested. In the process an unlikely hero discovers their own powers to heal, connect and stop cycles of violence.\n\nPost- Watching Questions (Comment and share your answers!):\nWhen is a moment that you have accepted something about yourself?  \nWhat are different ways that you express your strengths everyday?\nWho are the superheros in real life?\nWhat are your superpowers? Why?\nIf you were a part of a group of superheros, how would you change the world?  If you are already part of one, what are you fighting for?\n\nYouth Producers:\nAbena St. Clair\nEsai Lopez\nGabby Valdez\nJuan Guadalupe\nRene A. Jaquez\nScotty Zinifire\n\nAlso with:\nJace Romello\nMaria Santana\n\nMedia Educators:\nAleksei Wagner\nLuce Lincoln\n\nMedia Educator Apprentice:\nAdriel Grant",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/W8meG60pqis/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/W8meG60pqis/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/W8meG60pqis/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/W8meG60pqis/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "W8meG60pqis"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/zCK6xl7OE1YVfix22UiIHMNN1wQ\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:09:10.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Turn: A PSA by SupaFriends 2013",
+    "description": "Created by Sylver, Gabby, Victoria, Maria, and Nikolett\n\nGlobal Action Project's SupaFriends is a LGBTQQ youth video crew in New York City. We explore queer history, take pride in our identities, discuss issues in the community and build power by educating ourselves and others through media.\n\nwww.global-action.org",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S6p9g1069B4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S6p9g1069B4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S6p9g1069B4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/S6p9g1069B4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "S6p9g1069B4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/HrOiEF5rfrtmdIjW7oiv14l-VKs\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:09:10.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Keisha Knows",
+    "description": "KEISHA KNOWS, 9 min, 2010\r\nA SupaFriends Production\r\nProduced by Global Action Project\r\n\r\nInspired by lesbian pulp fiction novels of the 1950s and the film noir genre, Keisha Knows addresses heteronormativity through not just any love story -- but one that explores what is at stake when a community is divided.\r\n\r\nThe SupaFriends took a trip to the Lesbian Herstory Archives in the Spring and learned about lesbian pulp fictions novels, which inspired the group's choice in film genre in the pre-production process. Learn more about the Lesbian Herstory Archives: lesbianherstoryarchives.org/\r\n\r\nFor more information about Global Action Project or to order a DVD copy of this film, please contact GAP: global-action.org\r\n\r\nIf you've enjoyed watching this film or would like to support our youth programs please consider making a secure online donation via Guidestar: partners.guidestar.org/controller/searchResults.gs?action_donateReport=1&partner=networkforgood&ein=11-3425000\r\n\r\nMedia Educators:\r\nJai Dulani\r\nJ. Macchiarelli",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pc0bX_xSIvo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pc0bX_xSIvo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pc0bX_xSIvo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Pc0bX_xSIvo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/zwaeaDPyDoECuEYnHXD0hWTTRTk\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:09:10.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Queer in the City",
+    "description": "New York City is a great place to be gaybut that doesnt mean its easy.  Even here, LGBT youth face daily discrimination and hate violence.   In this video, queer NYC youth claim their right to exist and thrive on the streets of the cityand theyre not asking for permission.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5doVROseluw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5doVROseluw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5doVROseluw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5doVROseluw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/XVZ_KezMNVuu0SdYQziCgyL6pEU\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2016-08-02T22:09:10.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "3 Queer Mice",
+    "description": "This short animation is a remake of the nursery rhyme Three Blind Mice. We find three very queer mice in a lot of trouble when their rights are being violated. Based on real stories.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UoeIS1ELQYw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UoeIS1ELQYw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UoeIS1ELQYw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UoeIS1ELQYw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/xi4-jUiT2Uth4mqVgx137QbgGPc\"",
+   "id": "UExGWE91d3pZYjlRcWpNemRBTUw0dXZqZS1CaTZBdnpRNS41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:07:31.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "There's No Place Like Home",
+    "description": "A public service announcement focusing on homelessness among LGBTQ youth. Produced by Supa Friends in December 2008. Find us on Myspace: www.myspace.com/supafriendsforever",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JzEo8CTAg1Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JzEo8CTAg1Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JzEo8CTAg1Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9QqjMzdAML4uvje-Bi6AvzQ5",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JzEo8CTAg1Q"
+    }
+   }
+  }
+ ]
+},
+
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/dUL9ubxiL7lLAFfRYHHbLCIW1GA\"",
+ "pageInfo": {
+  "totalResults": 13,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/QHu809t_CDeQsPK8gm22etwpziQ\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2016-08-10T17:46:00.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Right To Act",
+    "description": "Made in collaboration with DRUM and Ugnayan, this short film takes on the NYPD's systematic unlawful and deceptive searches of young people of color. The filmmakers produced this film to create awareness of and support for the Right to Know Act, which aims to create transparency and accountability in everyday interactions between the NYPD and the public.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vmKxmZrdujc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vmKxmZrdujc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/CUI_ZQ-GjgRJY4sHFAmfBFeA8qM\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2016-08-10T17:46:00.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Missing Pieces",
+    "description": "Made in collaboration with youth leaders from Community Voices Heard, DRUM, FUREE, GOLES, RAISE and Ugnayan, this short film explores the perspectives of four young women around the intersections of Islamophobia, anti- Black and anti- Asian racism, policing, and immigrant detention.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ONd1Us9rG0U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ONd1Us9rG0U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/FtjN-gAUr4Y4CjRp8o9lK9zKyrY\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "The Real T: This Is My Truth (Full Video)",
+    "description": "Get yr \"SAS Facts\"! Based on the experiences of LGBTQQ youth of color, this ‘Know Your Rights’ video covers not only street encounters and warrants, but also sexual harassment by police, inappropriate searches of transgender and gender non-conforming youth, profiling for prostitution-related and other “quality of life” offenses, as well as covering new ‘Trans patrol guide’ policies.\n\nA Global Action Project, Community Media in Action Production, created in partnership with Streetwise and Safe.\n\nGlobal Action Project's Community Media in Action (C.M.I.A.) is a program dedicating to supporting community organizations to bring the power of youth media to their social justice campaigns. www.global-action.org\n\nStreetwise & Safe (SAS) —also known as SAS—is a project in New York City that shares the ins & outs, do’s & don’ts and street politics of encounters between LGBTQQ youth of color and the police. We also stand for and with LGBTQQ and youth with experience trading sex for survival needs. We feel knowing your rights makes you more confident in protecting yourself during and after interactions with the \npolice. We also know that the reality is that the police don’t always respect our rights but knowing what they are is important so that we can fight for them later. We also create a space to share strategies to stay safe from all forms of violence experienced by LGBTQQ youth and advocate for policies that will change the ways police interact with us.\nhttp://www.streetwiseandsafe.org/\n\nStreetwise and Safe Producers: \nTiffany Joy Cotto\nPeter Gabriel\nJordyn Rivera\nAmos Santiago\n\nGlobal Action Project Media Educators:\nSeyi Adebanjo\nAleksei Wagner\n\nWe do not own the rights to some of the music used in this video. Fair use for educational purposes.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rQEgCc1hdbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rQEgCc1hdbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rQEgCc1hdbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rQEgCc1hdbY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rQEgCc1hdbY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rQEgCc1hdbY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/wzSjmcbVNpnwUdwh02A-Im4QWOY\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "#Suspended4WHAT",
+    "description": "Youth from DRUM - Desis Rising Up & Moving partnered with Global Action Project to interview South Asian & Indo-Caribbean Students in Queens about their experiences with punitive Zero-Tolerance school discipline policies and bullying, as part of the Dignity in Schools campaign. In this featured interview, DRUM members Justin and Sarah share their story. The group is continuing to interview youth - Share your story!\n\ndrumnyc.org\n\nDRUM – South Asian Organizing Center (formerly Desis Rising Up and Moving) is a multigenerational, membership led organization of low-wage South Asian immigrant workers and youth in New York City. Founded in 2000, DRUM has mobilized and built the leadership of thousands of low-income, South Asian immigrants to lead social and policy change that impacts their own lives- from immigrant rights to education reform, civil rights, and worker’s justice.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pzFSZLv32q0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pzFSZLv32q0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pzFSZLv32q0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pzFSZLv32q0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pzFSZLv32q0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pzFSZLv32q0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/lbl16YnB7BGQhFvdzsva558A6zo\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:58:30.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Nou Pase Ase/Enough is Enough",
+    "description": "Youth organizers from Flanbwayan Haitian Literacy Project explore the challenges faced by recent immigrant Haitian parents and students in New York City public schools.\n\nflanbwayan.org",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H0KbJnVQ2bo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H0KbJnVQ2bo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H0KbJnVQ2bo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/H0KbJnVQ2bo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "H0KbJnVQ2bo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/gL0fARcsmKrTlDWwBLx2Y_rb8Vc\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "We Know Our Rights",
+    "description": "Created by members of Girls for Gender Equity, Streetwise and Safe and Make the Road in Global Action Project's 5 day Community Media in Action training, \"We Know Our Rights\" is about students standing up for their rights against discipline policies that criminalize students and push youth of color out of school and into prisons.\n\nFor more info:\n\nDignity in Schools: http://www.dignityinschools.org/\nACLU: https://www.aclu.org/blog/human-rights-racial-justice-lgbt-rights-religion-belief-reproductive-freedom/aclu-lens-new-york\n\nOrganizing Groups:\n\nGirls for Gender Equity: http://www.ggenyc.org/programs/coalition-for-gender-equity-in-schools/\nStreetwise and Safe: http://www.streetwiseandsafe.org/\nMake the Road: http://www.maketheroad.org/whatwedo_youth.php",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gxmLwEUTgzo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gxmLwEUTgzo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gxmLwEUTgzo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gxmLwEUTgzo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gxmLwEUTgzo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gxmLwEUTgzo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/G6vbzacV00-ujfGf7iIv9MoEJhg\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "You Are Not Alone",
+    "description": "Created by youth members of New York State Youth Leadership Council (NYSYLC), DRUM South Asian Organizing Center, UPROSE and Adelante Alliance in our 5 day youth facilitated Community Media in Action training, \"You Are Not Alone\" shows how undocumented communities can respond to sexual violence.\n\nProducer Janet Perez of NYSLC says,\n\"In this video, we wanted to showcase the grueling, and sometimes burdensome, mix of emotions that undocumented immigrant women go through. Not only do they have to think about the abuse that just took place, but also how their immigration status can play a role in deciphering how help will look like. They can easily be threatened by deportation to  stay quiet and keep low. In creating this video, we wanted our message to be: you are not alone. Regardless of status, you CAN get help.\"\n\nNew York Resources:\n\nConnect: http://www.connectnyc.org/\nUrban Justice Center: http://www.urbanjustice.org/ujc/projects/domestic.html\nAnti-Violence Project: www.avp.org/\nSafe Horizon: http://www.safehorizon.org/\nNew York Asian Women's Center: http://www.nyawc.org/\nVAWA: http://icwclaw.org/services-available/violence-against-women-act-vawa/\n\nOrganizing:\n\nNew York State Youth Leadership Council: http://www.nysylc.org/\nDRUM: http://www.drumnyc.org/\nAdelante Alliance: http://www.adelantealliance.org/\nUPROSE: http://uprose.org/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KjzwusYpvk8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KjzwusYpvk8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KjzwusYpvk8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KjzwusYpvk8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KjzwusYpvk8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/2IWQ4d8lTWspD11ESsaZVuCQWTY\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Fit the Profile",
+    "description": "In partnership with The Point CDC, serving the Hunts Point neighborhood in the Bronx, G.A.P. ran a six-week a media arts intensive for 20 youth leaders (July -- August). Participants created a docu-narrative \"Fit the Profile\" on the impact of Stop and Frisk policing on young people of color in the Bronx and throughout NYC. The piece was screened as part of a community festival at The Point to family, friends and community residents and will continue to be used as part of the A.C.T.I.O.N. group's campaign to educate their peers about police harassment and how they can get involved in the campaign.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rCPM7Ui1x_E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rCPM7Ui1x_E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rCPM7Ui1x_E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "rCPM7Ui1x_E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/fqpNz_cAT0iyZHrZkmx8R73sRYM\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "Our Homes, Our Rights",
+    "description": "A docu-narrative that explores the struggle of working class Chinese immigrants in the face of escalating landlord harassment and abuse. Through tenants stories, history and archival footage, youth producers unveil the power of tenants fighting back against gentrification. In English and Mandarin.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yd0HTMUfnHE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yd0HTMUfnHE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yd0HTMUfnHE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yd0HTMUfnHE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yd0HTMUfnHE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/pSqjqtVNqZPpb_y9ZY4DN-PzKCY\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "What's Justice?",
+    "description": "The Youth Leadership Project of CAAAV is organizing for justice and community healing in the Bronx.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F7Ws4lheKsM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F7Ws4lheKsM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F7Ws4lheKsM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "F7Ws4lheKsM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/WxF9GeAtY2sxReFNkSBOGTi26kM\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2015-12-14T18:56:18.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "That Aint Right",
+    "description": "That Aint Right captures the work of Urban Youth Collaborative (UYC), a coalition of student-led activists who are involved in the struggle to change NYC public high schools. Through UYCs local and city-wide organizing, youth are changing school policies that directly affect them.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yKiv2g6dsoY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yKiv2g6dsoY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yKiv2g6dsoY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yKiv2g6dsoY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/SCMrNTLKAALU0I3JnuCb4CXj0L0\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:14:05.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "That Aint Right",
+    "description": "That Aint Right captures the work of Urban Youth Collaborative (UYC), a coalition of student-led activists who are involved in the struggle to change NYC public high schools. Through UYCs local and city-wide organizing, youth are changing school policies that directly affect them.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yKiv2g6dsoY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yKiv2g6dsoY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yKiv2g6dsoY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yKiv2g6dsoY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"5C5HHOaBSHC5ZXfkrT4ZlRCi01A/eQbfaTV69awFaQ5NI6-k-fxEYao\"",
+   "id": "UExGWE91d3pZYjlRcmFlMkRMMENUWGRNNGxBVWZfLXN6ZS5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2016-08-10T18:14:33.000Z",
+    "channelId": "UCunqUhmbLs2D-GGMzsuCT8A",
+    "title": "What's Justice?",
+    "description": "The Youth Leadership Project of CAAAV is organizing for justice and community healing in the Bronx.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F7Ws4lheKsM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F7Ws4lheKsM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F7Ws4lheKsM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GlobalActionProject",
+    "playlistId": "PLFXOuwzYb9Qrae2DL0CTXdM4lAUf_-sze",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "F7Ws4lheKsM"
+    }
+   }
+  }
+ ]
+}
+
+
+
+
+]
+}
+
+
